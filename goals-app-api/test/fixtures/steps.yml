@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  goal_id: 1
+  stepname: MyString
+  description: MyString
+  metric: MyString
+  miutes: 1
+
+two:
+  goal_id: 1
+  stepname: MyString
+  description: MyString
+  metric: MyString
+  miutes: 1
